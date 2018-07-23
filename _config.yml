@@ -87,7 +87,4 @@ plugins:
 paginate: 10
 
 theme: jekyll-theme-architect
-=======
-theme: jekyll-theme-merlot
->>>>>>> 5f771a9be556cd50c0557df77a89abf4173265bf
->>>>>>> 修改
+

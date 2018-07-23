@@ -3,7 +3,7 @@
 #######################
 
 title: 三胖子                             # used in <title> tag & site header
-author:三胖子                        # used in a <meta> tag & /feed.xml
+author: 三胖子                        # used in a <meta> tag & /feed.xml
 description: >  
   没才华没魅力                            # used in a <meta> tag & /feed.xml
 slogan: 雷猴，雷猴                           # used in site header, beside title

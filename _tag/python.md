@@ -1,3 +1,3 @@
 ---
-title: 🏷 Odio
+title: 🏷 python
 ---

@@ -1,3 +1,3 @@
 ---
-title: 🏷 Vestibulum
+title: 🏷 django
 ---

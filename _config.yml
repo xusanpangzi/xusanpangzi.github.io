@@ -39,16 +39,6 @@ projects:
     url: https://github.com/xusanpangzi/
     role: Contributor
     category: Frontend Dev
-  - title: Cortana
-    teaser: A talking robot. Now available on Google Play?
-    url: https://play.google.com/store/apps/details?id=com.microsoft.cortana
-    role: Core Team
-    category: NLP
-  - title: Rihanna
-    teaser: Possibly another robot. Also available on Google Play.
-    url: https://play.google.com/store/music/artist/Rihanna?id=Arcw2m2ih45qntv3fufub25tyhu
-    role: Contributor
-    category: Algorithmic Composition
 
 #################
 # Site Settings #
@@ -86,5 +76,5 @@ plugins:
 
 paginate: 10
 
-theme: jekyll-theme-architect
+theme: sanpangzi
 
